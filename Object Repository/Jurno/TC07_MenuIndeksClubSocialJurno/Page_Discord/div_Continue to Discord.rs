@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue to Discord</name>
+   <tag></tag>
+   <elementGuidId>5542714d-9977-4306-85ff-a35aef1a49a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/section/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.contents-3ca1mk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>768df15a-313e-4300-a10b-da28877829f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contents-3ca1mk</value>
+      <webElementGuid>f74775cb-8f27-4c66-820d-222768e6a56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Discord</value>
+      <webElementGuid>95fbf5c8-5347-4593-8535-ba7df135dd73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-mount&quot;)/div[@class=&quot;appDevToolsWrapper-1QxdQf&quot;]/div[@class=&quot;notDevTools-1zkgfK&quot;]/div[@class=&quot;app-3xd6d0&quot;]/div[@class=&quot;characterBackground-1BPOOJ&quot;]/div[@class=&quot;wrapper-1f5byN&quot;]/div[1]/section[@class=&quot;authBox-1HR6Ha theme-dark&quot;]/div[@class=&quot;centeringWrapper-dGnJPQ&quot;]/button[@class=&quot;marginTop40-Q4o1tS button-1cRKG6 button-f2h6uQ lookFilled-yCfaCM colorBrand-I6CyqQ sizeLarge-3mScP9 fullWidth-fJIsjq grow-2sR_-F&quot;]/div[@class=&quot;contents-3ca1mk&quot;]</value>
+      <webElementGuid>b41ce2eb-223c-4695-b8f2-829d2e898829</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/section/div/button/div</value>
+      <webElementGuid>134fb281-c39f-465f-8ca4-017b20ae4246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This invite may be expired, or you might not have permission to join.'])[1]/following::div[1]</value>
+      <webElementGuid>f384cf8e-2060-4f45-ab52-65e9e12f2328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Invalid'])[1]/following::div[2]</value>
+      <webElementGuid>2e6e0d50-95b4-4aea-9059-f025971741b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why is my invite invalid?'])[1]/preceding::div[1]</value>
+      <webElementGuid>f7bf4406-c604-43ff-9a8a-3e43942f662e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[1]/preceding::div[7]</value>
+      <webElementGuid>6f1ed70a-b5ac-4103-beb9-d9532ca96965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Discord']/parent::*</value>
+      <webElementGuid>f8d31179-f8db-4ddb-bda5-f7f063aece86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>4eb66797-1853-42ec-911b-09d1d243695a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue to Discord' or . = 'Continue to Discord')]</value>
+      <webElementGuid>341449dd-e6ba-4a55-82ad-635db8cd313b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

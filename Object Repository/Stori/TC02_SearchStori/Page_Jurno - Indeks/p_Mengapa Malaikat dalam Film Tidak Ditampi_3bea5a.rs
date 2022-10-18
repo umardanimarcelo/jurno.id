@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Mengapa Malaikat dalam Film Tidak Ditampi_3bea5a</name>
+   <tag></tag>
+   <elementGuidId>eb2d6c57-34b3-4971-a14c-fa15776ad9fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.article-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>adb160db-dd69-4772-ae4c-785fbea958f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article-title</value>
+      <webElementGuid>159c4b7a-3acb-47da-825a-407111a1aa6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mengapa Malaikat dalam Film Tidak Ditampilkan Biblically Accurate?</value>
+      <webElementGuid>847bb1ff-4138-4448-9fc0-aed9ee72f65f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG jurno&quot;]/article[1]/div[1]/a[@class=&quot;indeks-link&quot;]/div[@class=&quot;article&quot;]/div[@class=&quot;credit&quot;]/p[@class=&quot;article-title&quot;]</value>
+      <webElementGuid>9fa9154d-4cb0-4d43-ba29-cba7505f8393</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      <webElementGuid>f0561346-3017-42b3-9b4e-a65a48c17890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::p[2]</value>
+      <webElementGuid>39f26c25-4b46-4644-8899-3218fe6a30bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STORI'])[1]/following::p[2]</value>
+      <webElementGuid>a86a6499-aa8a-4bbc-b7f0-9dd0f8f4f54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mengapa Malaikat dalam Film Tidak Ditampilkan Biblically Accurate?']/parent::*</value>
+      <webElementGuid>e16bc708-986e-496b-940a-faa94c7c5bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>e4ede674-15c7-47a8-899f-0748278a3b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Mengapa Malaikat dalam Film Tidak Ditampilkan Biblically Accurate?' or . = 'Mengapa Malaikat dalam Film Tidak Ditampilkan Biblically Accurate?')]</value>
+      <webElementGuid>d5a6a126-486b-4034-807f-2c5d73a8a494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

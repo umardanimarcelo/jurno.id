@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Penulis Ann Putri</name>
+   <tag></tag>
+   <elementGuidId>0510b525-a9d2-4995-a34d-c384b0b1378a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#p1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9311fa9d-e6c3-4251-816f-7498682ebd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile svelte-z4c8v2</value>
+      <webElementGuid>cfe7bb84-b7be-402b-8fa9-e338c3d635ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>p1</value>
+      <webElementGuid>85d54f74-80ec-4c55-8961-ab47b2f1e3ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Penulis Ann Putri</value>
+      <webElementGuid>85852755-0cdb-4060-a554-62c3f8a73c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p1&quot;)</value>
+      <webElementGuid>2b1497b6-a06f-4de5-b69e-028f86328835</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='p1']</value>
+      <webElementGuid>1545ae1b-9da7-40b0-b544-3ad99f31b920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='MainArticle']/div[14]/section/a/div</value>
+      <webElementGuid>473473c9-448a-41e3-8420-531b5e933b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dilakukan Swedia terbukti berhasil'])[1]/following::div[3]</value>
+      <webElementGuid>6ffa7156-df55-4dcb-af78-bd21c25442f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naiknya neoliberalisme'])[1]/following::div[3]</value>
+      <webElementGuid>8408b94c-3174-4308-83bb-f7540561c5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a/div</value>
+      <webElementGuid>1d4987cb-019e-4c41-abf3-1c73b6a32278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'p1' and (text() = ' Penulis Ann Putri' or . = ' Penulis Ann Putri')]</value>
+      <webElementGuid>33cb5491-d79e-4ae4-a865-20495d4648b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pekerja Seluruh Dunia, Tutup Laptop, Ayo Nyantai</name>
+   <tag></tag>
+   <elementGuidId>3453cc50-9dec-401b-8ac4-8cb55b755630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.article-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>94998032-4068-4cdc-8dd8-75e552a68bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article-title</value>
+      <webElementGuid>f9350e3c-7eda-4488-ab17-890b13bd228c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pekerja Seluruh Dunia, Tutup Laptop, Ayo Nyantai!</value>
+      <webElementGuid>326a21e7-39f5-4295-af95-e9ae82398e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;listdata__Container-sc-i584bf-0 eepZwG jurno&quot;]/article[1]/div[1]/a[@class=&quot;indeks-link&quot;]/div[@class=&quot;article&quot;]/div[@class=&quot;credit&quot;]/p[@class=&quot;article-title&quot;]</value>
+      <webElementGuid>e4fd3f76-bc7b-4f52-a6a0-a6c986049f17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/article/div/a/div/div[2]/p[2]</value>
+      <webElementGuid>c5bf2d94-f2c2-4b73-8a14-0659833d8ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::p[2]</value>
+      <webElementGuid>82dc48ee-bc2d-49db-8eb7-38caa0be6788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STORI'])[1]/following::p[2]</value>
+      <webElementGuid>c7d815d4-8c8e-4bef-99cf-433d1f3ac181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::p[19]</value>
+      <webElementGuid>e77e1720-002c-4f9d-8846-8a8ce54b259b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pekerja Seluruh Dunia, Tutup Laptop, Ayo Nyantai!']/parent::*</value>
+      <webElementGuid>36b1ad65-2bea-4cd8-94d7-157cd3388c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>dc2d8cef-b0a5-4b9d-a326-e61c55d2ada7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pekerja Seluruh Dunia, Tutup Laptop, Ayo Nyantai!' or . = 'Pekerja Seluruh Dunia, Tutup Laptop, Ayo Nyantai!')]</value>
+      <webElementGuid>3e392fae-04e9-4799-b17c-b33548ef09ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
